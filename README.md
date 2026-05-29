@@ -208,25 +208,25 @@ Frontend + Backend + Database
 ### Jenkins Automation
 
 <p align="center">
-  <img src="docs/jenkins-pipeline.png" width="90%">
+  <img src="k8s-3-tier-arch-master/docs/jenkins-pipeline.png" width="90%">
 </p>
 
 ### Docker Image Deployment
 
 <p align="center">
-  <img src="docs/docker-images.png" width="90%">
+  <img src="k8s-3-tier-arch-master/docs/docker-pods.png" width="90%">
 </p>
 
 ### Kubernetes Pods
 
 <p align="center">
-  <img src="docs/kubernetes-pods.png" width="90%">
+  <img src="k8s-3-tier-arch-master/docs/kubernetes-pods.png" width="90%">
 </p>
 
 ### Student Registration Application
 
 <p align="center">
-  <img src="docs/student-registration.png" width="90%">
+  <img src="k8s-3-tier-arch-master/docs/student-registration.png" width="90%">
 </p>
 
 ---
